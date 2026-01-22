@@ -42,9 +42,6 @@ Here’s what you can do with **WorldWise**:
 * **Geolocation Support**
   The user can use their current location to interact with the map.
 
-* **Protected Application Area**
-  Only logged-in users can access the main `/app` section of the application.
-
 ---
 
 ## 🧭 Application Flow
@@ -62,10 +59,6 @@ The application follows a clear and predictable flow:
 
    * a sidebar with cities and countries
    * an interactive map
-
-4. **Unauthorized Access Handling**
-   If a user who is not logged in tries to access the protected `/app` route, they are not shown an error.
-   Instead, they remain on the start page and cannot proceed further.
 
 ---
 
