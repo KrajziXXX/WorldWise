@@ -100,6 +100,10 @@ Working on this project helped me strengthen my understanding of React applicati
 * **useReducer**
   Using reducers to manage more complex state logic in a predictable way.
 
+* **React.lazy & Suspense**
+  Implementing lazy loading for route-based components to reduce the initial bundle size and improve application performance.  
+  Using `Suspense` to handle loading states and ensure a smooth user experience during asynchronous component loading.
+
 * **Defensive Application Logic**
   Thinking about possible edge cases and user behavior, such as:
 
